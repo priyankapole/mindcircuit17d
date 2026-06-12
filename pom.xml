@@ -16,12 +16,12 @@
 
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>NexusRepo</id>
+		    <id>nexusRepo</id>
 		    <url>http://44.202.165.151:8081/repository/priyankarepo-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>NexusRepo</id>
+		    <id>nexusRepo</id>
 		    <url>http://44.202.165.151:8081/repository/Priyankarepo-release/</url>
 		</repository>
   	</distributionManagement>
