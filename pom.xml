@@ -17,12 +17,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://54.82.92.150:8081/repository/batch17d-repo-snapshot/</url>
+		    <url>http://44.202.165.151:8081/repository/priyankarepo-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://54.82.92.150:8081/repository/batch17d-repo-release/</url>
+		    <url>http://44.202.165.151:8081/repository/Priyankarepo-release/</url>
 		</repository>
   	</distributionManagement>
     
